@@ -1,0 +1,196 @@
+body{
+    padding:0%;
+    margin:0%;
+}
+
+h1{
+    color: white;
+    width: 20ch;
+    text-align: left;
+}
+
+.container{
+
+}
+
+.header{
+    text-align: center;
+    width: 100%;
+    height: 200px;
+    color: black;
+    background-color: navy;
+    display: flex;
+    direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.div1{
+    display:flex;
+    align-items: end;
+    justify-content: end;
+    height: 100%;
+    width: 40%;
+    background-color: black;
+}
+
+.div2{
+    display:flex;
+    align-items:center;
+    background-color: violet;
+    height: 100%;
+    width: 100%;
+}
+
+.div1 img{
+    background-color: navy;
+    height: 200px;
+    width: 100%;
+}
+
+.School{
+    max-width: 10ch;
+    text-align: justify;
+}
+
+.div3{
+    background-color: beige;
+    height: 100%;
+    width: 100%;
+    display:flex;
+    align-items:center;
+}
+
+.styled-paragraph1{
+    color:navy;
+}
+
+.content{
+    font-size: 25px;
+}
+
+.Missing img{
+    width: 800px;
+    height: 500px;
+    margin-left: 150px;
+}
+
+.bullet-one{
+    color: navy;
+    font-size: 25px;
+    margin-left:1000px;
+    margin-top: -500px;
+}
+
+.document{
+    text-align: justify;
+    color: navy;
+    font-size: 20;
+    max-width: 80ch;
+    margin-left: 1000px;
+}
+
+.document2{
+    text-align: justify;
+    color: navy;
+    font-size: 20px;
+    max-width: 80ch;
+    margin-left: 1000px;
+}
+
+.ArhiveGaps{
+
+}
+
+.bullet-two{
+    color:navy;
+    font-size: 25px;
+    margin-left: 150px;
+    margin-top: 150px;
+}
+
+.gaps{
+    font-size:20px;
+    text-align: justify;
+    color: navy;
+    max-width: 80ch;
+    margin-left: 150px;
+}
+
+.gaps2{
+    font-size:20px;
+    text-align: justify;
+    color: navy;
+    max-width: 80ch;
+    margin-left: 150px;
+}
+
+.methods{
+
+}
+
+.what{
+    position: relative;
+    bottom: 400px;
+    font-size: 25px;
+    color: navy;
+    margin-left: 1000px;
+}
+
+.solution{
+    text-align: justify;
+    position: relative;
+    left: 1000px;
+    top: -400px;
+    max-width: 80ch;
+    font-size: 20px;
+    color: navy;
+}
+
+.Bias{
+    position: relative;
+    bottom: 400px;
+}
+
+
+.bullet-three{
+    max-width: 50ch;
+    font-size: 25px;
+    color: navy;
+    margin-left: 150px;
+}
+
+.biases{
+    font-size:20px;
+    text-align: justify;
+    color: navy;
+    max-width: 80ch;
+    margin-left: 150px;
+}
+
+.conclusion{
+
+}
+
+.last1{
+    position: relative;
+    bottom: 800px;
+    font-size: 25px;
+    color: navy;
+    margin-left: 1000px;
+}
+
+.lastlastone{
+    font-size: 20px;
+    position: relative;
+    top: -800px;
+    left: 1000px;
+    text-align: justify;
+    color: navy;
+    max-width: 80ch;
+}
+
+
+
+
+
