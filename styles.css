@@ -85,31 +85,6 @@ h3 {
   font-size: 1.8em;
 }
 
-.content h3 {
-	padding-bottom: 15px;
-}
-
-.content p {
-	font-size: 1.2em;
-	text-align: justify;
-}
-
-.Missing {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.Missing img {
-  height: auto;
-	width: stretch;
-  max-width: 100%;
-}
-
-.gaps {
-	grid-row: 3 / span 2;
-}
-
-.conclusion {
-	padding-top: 20px;
+code {
+  padding: 20px;
 }
