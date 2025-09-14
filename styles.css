@@ -64,6 +64,7 @@ h3 {
 }
 
 .content {
+  color: navy;
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 20px;
